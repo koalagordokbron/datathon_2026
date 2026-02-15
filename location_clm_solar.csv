@@ -1,0 +1,11 @@
+location_id,latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
+0,38.629173,-4.163269,789.0,3600,Europe/Madrid,GMT+1
+1,39.121265,-4.0796814,775.0,3600,Europe/Madrid,GMT+1
+2,39.613354,-2.1220398,840.0,3600,Europe/Madrid,GMT+1
+3,39.964848,-4.2737427,510.0,3600,Europe/Madrid,GMT+1
+4,40.03515,-2.8950806,832.0,3600,Europe/Madrid,GMT+1
+5,39.824253,-2.256256,915.0,3600,Europe/Madrid,GMT+1
+6,40.878735,-2.6884766,1066.0,3600,Europe/Madrid,GMT+1
+7,39.050964,-1.8518372,673.0,3600,Europe/Madrid,GMT+1
+8,38.84007,-1.3524475,894.0,3600,Europe/Madrid,GMT+1
+9,38.980667,-3.3287659,664.0,3600,Europe/Madrid,GMT+1
